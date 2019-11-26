@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: cb-kubecd
-  repo: bdd-gh-1574786176
-  url: https://github.com/cb-kubecd/bdd-gh-1574786176.git
+  repo: bdd-nh-1574786176
+  url: https://github.com/cb-kubecd/bdd-nh-1574786176.git
   version: ""
   versionURL: ""
